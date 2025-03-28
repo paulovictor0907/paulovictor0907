@@ -42,11 +42,11 @@
 </div>
 
 ----
-<img height="20" alt="GIF" src="https://github.com/paulovictor0907/paulovictor0907/blob/main/img/hacker.gif?raw=true"/> - Sobre mim:
+<img height="20" alt="GIF" src="https://github.com/paulovictor0907/paulovictor0907/blob/main/img/hacker.gif?raw=true"/> - About me:
 
 <div align="justify" >
-Estudante de Engenharia de software na <a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target="_blank">Puc minas</a> tenho 21 anos formado no ensino médio e busco uma oportunidade em uma empresa onde possa aplicar meus conhecimentos e, ao mesmo tempo, expandir minhas habilidades. Meu objetivo é contribuir ativamente para o sucesso da equipe, participando de projetos desafiadores e adquirindo novos aprendizados ao longo do caminho. Estou motivado a explorar novas tecnologias, aprimorar minhas competências e entregar soluções eficientes e de qualidade.
-
+I am a 21 year old Software Engineering student at <a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target="_blank">Puc minas</a>
+, with a high school diploma, seeking an opportunity in a company where I can apply my knowledge while expanding my skills. My goal is to actively contribute to the success of the team by participating in challenging projects and acquiring new learnings along the way. I am motivated to explore new technologies, enhance my competencies, and deliver efficient and high-quality solutions.
 
 
 </div>
@@ -55,7 +55,7 @@ Estudante de Engenharia de software na <a href="https://www.pucminas.br/destaque
 -----
 
 <div>
-<img height="20" alt="GIF" src="https://github.com/paulovictor0907/paulovictor0907/blob/main/img/paulo-code-encoding.gif?raw=true"/> - Linguagens e Ferramentas:
+<img height="20" alt="GIF" src="https://github.com/paulovictor0907/paulovictor0907/blob/main/img/paulo-code-encoding.gif?raw=true"/> - Languages and Tools:
 
 <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/paulovictor0907/paulovictor0907/blob/main/img/bash.png?raw=true"/></a></code>
 &nbsp; 
